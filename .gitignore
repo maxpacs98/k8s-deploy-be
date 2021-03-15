@@ -1,0 +1,14 @@
+#pycharm
+__pycache__/
+.idea/
+
+#eggs
+*.egg
+
+#flask
+instance/
+.webassets-cache
+
+#python & env
+.python-version
+*env
